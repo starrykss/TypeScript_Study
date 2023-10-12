@@ -3,8 +3,13 @@
 
 - **타입스크립트(TypeScript)** 를 공부한 내용을 기록한 레포지토리
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="80" alt="TypeScript Logo"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png" width="80" alt="JavaScript Logo"/>
+<table>
+    <tr>
+        <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="80" alt="TypeScript Logo"/></td>
+        <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png" width="80" alt="JavaScript Logo"/></td>
+    </tr>
+</table>
+
 
 ## 타입스크립트(TypeScript)
 - **마이크로소프트(Microsoft)**가 개발하고 유지하고 있는 오픈소스 프로그래밍 언어로, 2012년 말 처음 발표되었다.
